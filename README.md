@@ -1,0 +1,2 @@
+# gpadp
+government polytechnic adityapur
