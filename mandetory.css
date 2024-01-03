@@ -1,0 +1,89 @@
+body{
+    margin:0;
+    padding:0;
+    background:white;
+    background-position: fixed;
+}
+.toparea{
+    background:#A64E49;
+    padding-top:10px;
+    color:white;
+    text-align:center;
+}
+.logoarea{
+    padding:34px 0;
+    color:#74353F;
+    background:#F2C38B;
+    text-align:center;
+}
+    .logoarea img{
+        height:110px;
+    }
+    .logoarea h1{
+        text-shadow: 2px 8px 6px #0003,0 -5px 16px #FFFFFF4D;
+    }
+    .logoarea h4{
+        color:black;
+    }
+
+.menuarea{
+    text-align: center;
+    background:rgb(160, 255, 160);
+    padding:0px;
+}
+    .ap{
+        padding-left: 200px;
+    }
+    .ap1{
+        padding-left:80px;
+    }
+
+
+
+.footerarea{
+    padding:50px 0px;
+    background:#202020;
+}
+    .footerarea h4{
+        border-left:solid 5px white;
+        padding:0 10px;
+        color: white;
+    }
+    .footerarea p{
+        color:#F2C38B;
+    }
+    .footerarea a:hover{
+        color:#F2C38B;
+        text-decoration: none;
+    }
+    .footerarea ul{
+        list-style-type: none;
+        color:#D36F35;
+        padding:2px 0;
+    }
+    .footerarea ul li{
+        transition:all 1s;
+        padding:3px 0px;
+    }
+    .footerarea ul li:hover{
+        transform: translateX(8px);
+    }
+    .footerarea ul li a:hover{
+        color:#D36F35;
+    }
+    #des{
+        text-align:center;
+        padding-top: 20px;
+    }
+    a{
+        color:#D36F35;
+    }
+    #des a:hover{
+        color:#D36F35;
+        text-decoration: none;
+    }
+    #a11{
+        height:1px;
+        width:100%;
+        background-image: linear-gradient(to left,transparent,#DBDBDB,transparent);
+    }
